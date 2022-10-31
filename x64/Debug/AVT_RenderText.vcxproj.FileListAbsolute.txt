@@ -1,0 +1,7 @@
+C:\Users\Utilizador\Documents\Visual Studio 2019\Templates\ProjectTemplates\LAB1 CGJ\x64\Debug\AVT_RenderText.exe
+C:\Users\migue\source\repos\LAB1 CGJ\x64\Debug\AVT_RenderText.exe
+C:\Users\Utilizador\Desktop\LAB1 CGJ\x64\Debug\AVT_RenderText.exe
+C:\Users\migue\source\repos\LAB1 CGJ2\x64\Debug\AVT_RenderText.exe
+C:\Users\Utilizador\Desktop\LAB1 CGJ2\x64\Debug\AVT_RenderText.exe
+C:\Users\Utilizador\Desktop\IST\CGJ\LAB1 CGJ2\x64\Debug\AVT_RenderText.exe
+C:\Users\migue\source\repos\LAB2 CGJ6\LAB1 CGJ2\x64\Debug\AVT_RenderText.exe

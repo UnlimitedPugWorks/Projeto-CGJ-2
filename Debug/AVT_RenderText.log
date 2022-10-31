@@ -1,0 +1,13 @@
+﻿  avtFreeType.cpp
+C:\Users\Utilizador\Documents\Visual Studio 2019\Templates\ProjectTemplates\LAB1 CGJ\avtFreeType.cpp(5,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  AVTmathLib.cpp
+C:\Users\Utilizador\Documents\Visual Studio 2019\Templates\ProjectTemplates\LAB1 CGJ\AVTmathLib.h(18,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  basic_geometry.cpp
+C:\Users\Utilizador\Documents\Visual Studio 2019\Templates\ProjectTemplates\LAB1 CGJ\basic_geometry.cpp(15,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  lightDemo.cpp
+C:\Users\Utilizador\Documents\Visual Studio 2019\Templates\ProjectTemplates\LAB1 CGJ\lightDemo.cpp(20,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Texture_Loader.cpp
+C:\Users\Utilizador\Documents\Visual Studio 2019\Templates\ProjectTemplates\LAB1 CGJ\Texture_Loader.cpp(1,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  vsShaderLib.cpp
+C:\Users\Utilizador\Documents\Visual Studio 2019\Templates\ProjectTemplates\LAB1 CGJ\vsShaderLib.h(39,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Generating Code...

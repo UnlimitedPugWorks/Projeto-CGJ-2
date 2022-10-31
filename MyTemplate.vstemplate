@@ -1,0 +1,40 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>CGJ_template</Name>
+    <Description>Modern OpenGL development template with freeglut, glew, DevIL, Assimp and freetype libraries</Description>
+    <ProjectType>VC</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>CGJ_template</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.png</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="AVT_RenderText.vcxproj" File="AVT_RenderText.vcxproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="false" TargetFileName="$projectname$.vcxproj.filters">AVT_RenderText.vcxproj.filters</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="avtFreeType.cpp">avtFreeType.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="AVTmathLib.cpp">AVTmathLib.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="basic_geometry.cpp">basic_geometry.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="lightDemo.cpp">lightDemo.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Texture_Loader.cpp">Texture_Loader.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="vsShaderLib.cpp">vsShaderLib.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="avtFreeType.h">avtFreeType.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="AVTmathLib.h">AVTmathLib.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="cube.h">cube.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="ft2build.h">ft2build.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="geometry.h">geometry.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Texture_Loader.h">Texture_Loader.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="VertexAttrDef.h">VertexAttrDef.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="vsShaderLib.h">vsShaderLib.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="pointlight.frag">SHADERS\pointlight.frag</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="pointlight.vert">SHADERS\pointlight.vert</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="text.frag">SHADERS\text.frag</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="text.vert">SHADERS\text.vert</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Dependencies.exe">Dependencies.exe</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
